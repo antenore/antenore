@@ -6,7 +6,9 @@
 - 📫 How to reach me: RTFM ;-)
 - 😄 Pronouns: He, his, him
 
-<p align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=antenore&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="800">
-</p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=antenore&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antenore&langs_count=5&theme=tokyonight)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antenore&repo=Remmina)](https://github.com/FreeRDP/Remmina)
