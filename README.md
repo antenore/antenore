@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**antenore/antenore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on https://gitlab.com/Remmina/Remmina  (mirror: https://github.com/FreeRDP/Remmina) 
+- 🌱 I’m currently learning Lua, C, AWS
+- 💬 Ask me about Linux, UNIX, Cloud solutons, OpenShift, Puppet, shell scripting, and many more
+- 📫 How to reach me: RTFM ;-)
+- 😄 Pronouns: He, his, him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=antenore&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="800">
+</p>
