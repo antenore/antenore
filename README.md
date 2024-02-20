@@ -1,8 +1,9 @@
 ### Hello World! 👋
 
-- 🔭 I’m currently working on https://gitlab.com/Remmina/Remmina  (mirror: https://github.com/FreeRDP/Remmina) 
-- 🌱 I’m currently learning Lua, C, AWS
-- 💬 Ask me about Linux, UNIX, Cloud solutons, OpenShift, Puppet, shell scripting, and many more
+- 🔭I’m currently working on AWS, and Azure
+- 🔭I was the maintainer of https://gitlab.com/Remmina/Remmina  (mirror: https://github.com/FreeRDP/Remmina) 
+- 🌱 I’m currently learning Lua, C, AWS, and everything else in the freetime.
+- 💬 Ask me about Linux, UNIX, Cloud solutons, OpenShift, Puppet, shell scripting, and many more.
 - 📫 How to reach me: RTFM ;-)
 - 😄 Pronouns: He, his, him
 
