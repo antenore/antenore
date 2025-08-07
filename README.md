@@ -1,4 +1,4 @@
-### Hello World! 👋
+weHello World! 👋
 
 - 🔭 I'm currently working on [ARIA](https://github.com/antenore/ARIA) - a framework for AI participation policies in software projects
 - 💼 I work professionally with AWS, Azure, and cloud technologies
